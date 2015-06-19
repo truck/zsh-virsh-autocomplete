@@ -1,3 +1,6 @@
+- this is a copy of jplitza's code with one alteration: a tiny change to allow it to load from zgen.
+- there may be a better way to do this and if so, suggest it to me and then I could offer to merge back to the main tree. At this time, I don't think there is, and I have things to work on that are not "this" (:
+
 zsh_virsh_autocompletion
 ========================
 
