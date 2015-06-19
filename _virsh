@@ -1,4 +1,4 @@
-#compdef virsh
+###compdef virsh
 
 # Copyright (c) 2015, Jan-Philipp Litza <janphilipp@litza.de>
 # All rights reserved.
@@ -158,4 +158,4 @@ _virsh_subcommand_args() {
   fi
 }
 
-_virsh "$@"
+compdef _virsh virsh
